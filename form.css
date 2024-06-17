@@ -1,0 +1,56 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    background-color: lightblue;
+}
+.regis h1
+{
+    text-align: center;
+    margin-top:50px;
+    margin-bottom:0px; 
+    padding: 0px;
+    background-color: lightblue;
+}
+.formcolor
+{
+    background-color: lightblue;
+}
+.inputcolor
+{
+    background-color: white;
+}
+.details
+{
+    text-align:start;
+    
+
+   
+}
+.details
+{
+    border: 2px;
+    margin: 500px;
+    padding-top: 30px;
+    margin-top: 5px;
+    padding-bottom: 20px;
+    border: dashed black;
+    padding-left:7px;
+    
+}
+.Login
+{
+    cursor: pointer;
+    color: white;
+    background-color: black;
+    padding-top: 1.5px;
+    padding-bottom:1.5px;
+    padding-left:5px;
+    padding-right: 5px;
+    text-align: center;
+    margin-left:200px;
+    margin-top:10px;
+    margin-bottom: -50px;
+
+}
+
